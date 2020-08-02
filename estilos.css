@@ -29,8 +29,9 @@ section{
   background-color: #DDFEEE;
   float: left;
   height: 300px;
-  width: 500px;
   margin: 8px;
+  width: 500px;
+
 }
 
 article{
@@ -44,8 +45,9 @@ aside{
   background-color: #4DCA39;
   float: right;
   height: 300px;
-  width: 350px;
   margin:8px 8px 8px 8px ;
+  width: 350px;
+
 }
 footer{
   border: 1.5px solid #4DCA39;
@@ -53,4 +55,11 @@ footer{
   clear: both;
   height: 60px;
   margin: 8px;
+}
+h1{
+  font-family: 'Anton', sans-serif;
+  margin: 6px
+}
+a{
+  margin: 6px
 }
