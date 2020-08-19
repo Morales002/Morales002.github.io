@@ -104,8 +104,7 @@ main{
   height: 510px;
   margin:10px 0px 0px 0px;
   width: 510px;
-  border: 1px solid blue;
-  /* border-radius: 20px; */
+  border-radius: 20px;
   display: flex;
   flex-wrap: wrap;
   justify-content:space-between;
@@ -128,7 +127,6 @@ main{
 }
 
 .ar1{
-border: 1px solid red;
 width: 245px;
 height: 240px;
 border-top-left-radius: 20px;
@@ -160,7 +158,6 @@ background: linear-gradient(to bottom, #f8f7f5, #c5c5c5);
 }
 
 .ar2{
-  border: 1px solid red;
   width: 245px;
   height: 240px;
   border-top-right-radius: 20px;
@@ -192,7 +189,6 @@ background: linear-gradient(to bottom, #f8f7f5, #c5c5c5);
 }
 
 .ar3{
-  border: 1px solid red;
   width: 245px;
   height: 240px;
   border-bottom-left-radius: 20px;
@@ -222,7 +218,6 @@ background: linear-gradient(to bottom, #f8f7f5, #c5c5c5);
 }
 
 .ar4{
-  border: 1px solid red;
   width: 245px;
   height: 240px;
   border-bottom-right-radius: 20px;
